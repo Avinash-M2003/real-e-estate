@@ -1,0 +1,133 @@
+.top-1 {
+  height: 708px;
+  width: 100%;
+  background-color:#151c22;
+  color: white;
+  /* padding: 56px, 16px; */
+
+}
+.top-2 {
+  display: flex;
+  height: 596px;
+  /* width: 1162.4px; */
+  
+  /* margin-left: 200px; */
+  /* justify-content: space-between; */
+  justify-content:space-evenly;
+  
+}
+.single {
+  /* width: 162px; */
+  height: 596px;
+  /* background-color: chartreuse; */
+  /* margin-right: 50px; */
+}
+.double {
+  /* width: 134px; */
+  height: 596px;
+
+  /* background-color: gold; */
+  /* margin-right: 50px; */
+}
+.Third {
+  /* width: 187px; */
+  height: 596px;
+  /* background-color: burlywood; */
+
+}
+.sngl {
+  height: 380px;
+  /* width: 162px; */
+  /* background-color: brown; */
+}
+.doub {
+  /* width: 134px; */
+  height: 416px;
+  /* background-color: pink; */
+}
+
+.three {
+  height: 540px;
+  width: 187px;
+  /* background-color: blue; */
+}
+.nine {
+  height: 24px;
+  width: 162px;
+  font-size: 20px;
+  margin: 0px, 0px, 16px;
+  font-weight: bold;
+  font-family: sans-serif;
+  
+}
+.fourth{
+    /* background-color: chartreuse; */
+    width: 387px;
+    height: 596px;
+    
+}
+#mail{
+  font-family: sans-serif;
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+#toll{
+  font-size:15px;
+  font-family: sans-serif;
+  font-weight: 600;
+  margin-top:40px;
+
+}
+#time{
+  font-size: 14px;
+/* font-weight: bold; */
+margin-bottom:15px;
+}
+#connect{
+  font-size: 18px;
+  font-weight: bold;
+  /* font-family: "Open sans"; */
+}
+.company {
+  /* height: 24px;
+  width: 134px; */
+ font-family: sans-serif;
+}
+.partners {
+  height: 24px;
+  width: 187px;
+  font-family: sans-serif;
+}
+.let{
+  width: 583px;
+  height: 596px;
+  justify-content: space-evenly;
+}
+li{
+  font-family: sans-serif;
+  font-size: 17px;
+  padding-top: 16px;
+  list-style-type: none;
+}
+.contact{
+  font-family: sans-serif;
+}
+#dwnld{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#usage{
+  font-size: 12px;
+  font-weight: 200;
+}
+.last{
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight:600;
+  margin-top: 50px;
+}
+
+#rights{
+  margin-bottom: 5px;
+}

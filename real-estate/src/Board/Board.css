@@ -1,0 +1,44 @@
+.main-container {
+  height: 56px;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.mini {
+  display: flex;
+  justify-content: space-evenly;
+  height: 36px;
+  width: 272px;
+  padding: 4px;
+  background:#f4f5f7;
+  margin-right: 300px;
+  text-align: center;
+}
+.head {
+  height: 36px;
+  width: 286px;
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+}
+.lower {
+  height: 36px;
+  width: 300px;
+  font-size: 16px;
+  color: #42526e;
+}
+.loc {
+  font-family: sans-serif;
+  font-weight: 600;
+  color: #091e42;
+  font-size: 15px;
+  width: 132px;
+  height: 28px;
+  padding: 6px 8px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 4px 0px rgba(0, 106, 194, 0.2);
+}
+.para{
+  margin-left: 300px;
+}
